@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/mantine-t2/'
+  base: 'https://steventran619.github.io/mantine-t2/'
 })
