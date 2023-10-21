@@ -20,6 +20,10 @@ export default function App() {
         </Text>
         <br />
         <Text>Built with in React (TSX) + Mantine</Text>
+        <Text>Built with in React (TSX) + Mantine</Text>
+
+        <Text>Built with in React (TSX) + Mantine</Text>
+
       </Box>
     </Center>
 
